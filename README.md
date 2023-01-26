@@ -6,4 +6,7 @@ I will add some info about myself here. Maybe even an image!
 
 This is my first try [Exercise 2b](ex2b.md)
 
-try 2 [Exercise 2b](ex2b_2.jpg)
+try 2 [Exercise 2b_2](exercises/ex2b_2.jpg)
+
+
+Link to [Google](https://www.google.com)
