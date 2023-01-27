@@ -1,5 +1,5 @@
 # This is my Exercise 2 file
-Some notes below
+Some notes are below.
 
 ![This is a map I made](ex2b_2.jpg)
 
