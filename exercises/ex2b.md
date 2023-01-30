@@ -5,5 +5,5 @@ I started out with a shapefile of the cities in Iowa that contained an attribute
 
 ![My Exercise 2b map](ex2b.jpg)
 
-#### This is not my map. It is an example of an external link to a map of Iowa I found on the Web.
+#### This is not my map. It is an example of an external link to a map of Iowa I found on the Web. Note that I set the size to be 640 pixels wide and I used the HTML img syntax instead of markdown.
 <img src="https://ontheworldmap.com/usa/state/iowa/map-of-iowa.jpg"  width="640">
