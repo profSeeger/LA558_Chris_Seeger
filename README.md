@@ -1,12 +1,13 @@
 # Chris Seeger's LA558 Portfolio
-This is my repository for the [Iowa State University](https://www.iastate.edu) LA 558 Introduction to Web Mapping Spring 2023.
-Following is some information about myself and a links to the exercises, assignments and class projects.
+This is my repository for the [Iowa State University](https://www.iastate.edu) Web Mapping and Spatial Data Visualization - Spring 2023.
+Following is some information about myself and links to the exercises, assignments and class projects completed for this course.
 
-I will add some info about myself here. Maybe even an image!
+##[About me...](aboutMe.md)
+
 
 ## Class Exercises
-- [1b](exercises/ex1b.md)
-- [2b](exercises/ex2b.md) - create a map in QGIS and export it to GitHub and then place the image on a webpage created in markdown page
+- [1b](exercises/ex1b.md) - 
+- [2b](exercises/ex2b.md) - Create a map in QGIS and export it to GitHub and then place the image on a webpage created in markdown page
 - 3a - will have to wait and see what Professor Seeger has planned!
 
 
