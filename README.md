@@ -16,4 +16,4 @@ Following is some information about myself and links to the exercises, assignmen
 -?? At some point we will have an assignment using the skills we have learned so far!
 
 ### Final Projects
-No idea what the final project will be yet!
+I have no idea what my final project topic will be yet!
