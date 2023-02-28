@@ -14,3 +14,8 @@ Following is some information about myself and links to the exercises, assignmen
 
 ### Final Projects
 I have no idea what my final project topic will be yet!
+
+
+
+Test to githubDemo [directory](githubDemo) - should display the index.md file
+Test to githubDemo [directory](githubDemo/myfile.md) - should display the myfile.md file
