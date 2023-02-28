@@ -10,7 +10,8 @@ Following is some information about myself and links to the exercises, assignmen
 - 3a - will have to wait and see what Professor Seeger has planned!
 
 ### Assignments
--?? At some point we will have an assignment using the skills we have learned so far!
+- Assignment 3 [example](assignments/assignment3)
+
 
 ### Final Projects
 I have no idea what my final project topic will be yet!
