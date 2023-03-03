@@ -1,11 +1,10 @@
-
-permalink: pretty
-
+title: Architect theme
 title: false
+description: Architect is a theme for GitHub Pages.
+show_downloads: true
+theme: jekyll-theme-architect
 
 # Set a path/url to a favicon that will be displayed by the browser
 favicon_ico: "favicon.ico"
 
-
-# Your name to show in the footer
-author: Some Person
+permalink: pretty
