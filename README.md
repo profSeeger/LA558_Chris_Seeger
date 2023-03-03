@@ -7,7 +7,7 @@ Following is some information about myself and links to the exercises, assignmen
 ### Class Exercises
 - [1b](exercises/ex1b.md) - A quick analysis/observation of the data provided by the instructor.
 - [2b](exercises/ex2b.md) - Create a map in QGIS and export it to GitHub and then place the image on a webpage created in markdown page
-- 3a - will have to wait and see what Professor Seeger has planned!
+- [6b] Simple Leaflet map mad in R
 
 ### Assignments
 - Assignment 3 [example](assignments/assignment3)
